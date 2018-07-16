@@ -17,7 +17,7 @@
     * Functional Requirements define:
         * What the system must do
         * How will the different components will interact between one another (relationship)
-        * What does "functioning properly" means to me in the context of the app I'm planning to build
+        * What does **"functioning properly"** means to me in the context of the app I'm planning to build
 
 - [Reference Slides](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf)
 
